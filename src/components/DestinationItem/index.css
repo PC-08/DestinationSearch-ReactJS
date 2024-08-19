@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-item {
+  list-style-type: none;
+  margin: 50px;
+}
+
+.img {
+  width: 300px;
+  height: 200px;
+}
+
+.para {
+  font-weight: 500;
+  font-family: 'roboto';
+  color: #252627;
+  text-align: left;
+}

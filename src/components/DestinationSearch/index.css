@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  background-color: #f1f5f9;
+  border-radius: 8px;
+  border: 0;
+  width: 200px;
+  outline: none;
+  padding: 15px;
+}
+
+.search-con {
+  background-color: #f1f5f9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.search-img {
+  height: 30px;
+  width: 30px;
+}
